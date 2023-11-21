@@ -1,41 +1,16 @@
-# Project Title
+# Project: Degen Token AVAX
 
-Simple overview of use/purpose.
+This project contains the submission of the assessment for BUILDING ON AVALANCHE Module.
 
-## Description
+# Description:
 
-An in-depth paragraph about your project and overview of use.
+This project contains a files and simple smart contract using Solidity, which is a program used to create smart contracts for the Ethereum blockchain.
+The repository contains files that are used to deploy smart contract to avalanche networks and interact with it.
 
-## Getting Started
+The projet basically demonstrates the use of ERC20 tokens from Open Zeppellin contract to create own tokens for Degen Gaming. The smart contract contains
+functions for minting, burning, transferring, redeeming and checking balances of tokens.
 
-### Installing
+# Submitted by:
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+* John Dominic S. Contreras | 202010368
+* 202010368@fit.edu.ph
